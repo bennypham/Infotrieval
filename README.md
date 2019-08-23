@@ -1,6 +1,3 @@
-# finalproject-ir
-finalproject-ir created by GitHub Classroom
-
 # Group Name: IR(Infotrieval)
 
 # Group Members
