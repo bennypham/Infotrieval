@@ -1,4 +1,4 @@
-# Group Name: Infotrieval
+# Infotrieval
 
 # Group Members
 ```
